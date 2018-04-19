@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 天才在左,疯子在右
@@ -6,8 +5,6 @@ date: 2018-02-02 15:46
 comments: true
 external-url:
 categories: Philosophy
----
-
 ---
 
 ## 一
