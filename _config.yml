@@ -9,11 +9,11 @@ colophon: "© GyanStar - Since 2015<br>Content available under <a href='http://c
 baseurl: ""
 url: "http://hugosereno.eu"
 
-twitter_username: ferreira_hugo
-github_username: hugoferreira
-linkedin_username: hugoserenoferreira
-facebook_username: hugo.sereno.ferreira
-google-analytics: UA-69060-5
+twitter_username: Gyan_Star
+github_username: cnzhikai
+linkedin_username: Zhikai Huang
+facebook_username: Zhikai Huang
+google-analytics: 
 
 simple_search: http://google.com/search
 markdown: kramdown
