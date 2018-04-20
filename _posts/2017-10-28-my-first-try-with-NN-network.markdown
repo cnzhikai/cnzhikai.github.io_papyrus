@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My First Try on NN-network 
-date: 2016-05-28 15:46
+title: {1} My First Try on NN-network 
+date: 2017-10-28 15:46
 comments: true
 external-url:
-categories: Integrated-Circuits-Design
+categories: Software
 ---
 
 # Install Tensorflow on Windows
