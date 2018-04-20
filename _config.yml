@@ -14,7 +14,7 @@ github_username: cnzhikai
 zhihu: GyanStar
 #linkedin_username: Zhikai Huang
 #facebook_username: Zhikai Huang
-#google-analytics: 
+google-analytics: UA-117907268-1 
 
 simple_search: http://google.com/search
 markdown: kramdown
