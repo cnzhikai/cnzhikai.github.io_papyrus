@@ -1,6 +1,6 @@
 ---
 layout: post
-title: {1} My First Try on NN-network 
+title: My First Try on NN-network 
 date: 2017-10-28 15:46
 comments: true
 external-url:
